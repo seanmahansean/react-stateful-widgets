@@ -40,10 +40,10 @@ STEP 4:
 
 STEP 5:
   This click handler needs to use 'setCount' to set the 'count' to be the current 'count' minus one.
-  Do NOT do count--. That amounts to trying to mutate 'count' in place. This is the road to perdition.
+  Do NOT do count--. That amounts to trying to mutate 'count' in place. This is the road to perdition. 
 
 STEP 6:
-  This click handler needs to use 'setCount' to set the 'count' to be zero again.
+  This click handler needs to use 'setCount' to set the 'count' to be zero again. 
 */
 
 import React, {useState} from 'react'; /* STEP 0 */

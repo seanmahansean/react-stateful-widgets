@@ -11,7 +11,7 @@ Some might say 3 different states: one per mood (happy, sad, and uncertain).
 But a single slice of state is more than enough to keep track of all these moods!
 
 STEP 0:
-  Study the component below, and import the state hook.
+  Study the component below, and import the state hook
 
 STEP 1:
   Create a 'mood', 'setMood' pair using the state hook.
